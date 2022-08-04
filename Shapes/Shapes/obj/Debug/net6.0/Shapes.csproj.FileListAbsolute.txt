@@ -1,0 +1,12 @@
+D:\MindBox_Shapes\Shapes\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\MindBox_Shapes\Shapes\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\MindBox_Shapes\Shapes\Shapes\bin\Debug\net6.0\ref\Shapes.dll
+D:\MindBox_Shapes\Shapes\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\ref\Shapes.dll
+D:\MindBox_Shapes\Shapes\Shapes\obj\Debug\net6.0\Shapes.pdb
