@@ -8,9 +8,9 @@ namespace Shapes
 {
     public class Triangle : ISquareCalculatable
     {
-        public double EdgeA { get; }
-        public double EdgeB { get; }
-        public double EdgeC { get; }
+        public double EdgeA { get; private set; }
+        public double EdgeB { get; private set; }
+        public double EdgeC { get; private set; }
 
         public Triangle(double a, double b, double c)
         {

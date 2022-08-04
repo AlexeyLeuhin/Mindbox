@@ -8,7 +8,7 @@ namespace Shapes
 {
     public class Circle : ISquareCalculatable
     {
-        public double Radius { get; }
+        public double Radius { get; private set; }
 
         public Circle(double radius)
         {

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0561436-0ff5-45c0-8a74-c8e8a454d5a7": {
+      "ProjectGuid": "d0561436-0ff5-45c0-8a74-c8e8a454d5a7",
+      "DisplayName": "Shapes",
+      "ColorIndex": 0
+    },
+    "7cf66491-d4c5-4f20-b69a-c935f5be7c22": {
+      "ProjectGuid": "7cf66491-d4c5-4f20-b69a-c935f5be7c22",
+      "DisplayName": "ShapesTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
